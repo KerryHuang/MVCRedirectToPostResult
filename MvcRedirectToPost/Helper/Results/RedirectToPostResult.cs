@@ -60,5 +60,10 @@ namespace MvcRedirectToPos.Helper.Results
             page.Controls.Add(new LiteralControl(strForm));
         }
 
+
+        public override void ExecuteResult(ControllerContext context)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
