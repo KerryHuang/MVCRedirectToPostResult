@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcRedirectToPost", "MvcRedirectToPost\MvcRedirectToPost.csproj", "{68B555DC-843D-4A8F-B917-C4E82A1C810E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B555DC-843D-4A8F-B917-C4E82A1C810E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B555DC-843D-4A8F-B917-C4E82A1C810E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B555DC-843D-4A8F-B917-C4E82A1C810E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B555DC-843D-4A8F-B917-C4E82A1C810E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
